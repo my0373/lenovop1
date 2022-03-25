@@ -1,0 +1,9 @@
+# Install a role at a specific tag from GitHub
+- name: tmux
+  src: https://github.com/my0373/ansible_tmux
+
+- name: vim
+  src: https://github.com/my0373/ansible_vim
+
+- name: git
+  src: https://github.com/my0373/ansible-linux-git
